@@ -1,0 +1,27 @@
+FlexiMart Data Quality Report
+================================
+
+customers_raw.csv
+--------------------------------
+Records processed:      26
+Duplicates removed:     1
+Missing values handled: 5
+Rows dropped:           0
+Records loaded:         25
+
+products_raw.csv
+--------------------------------
+Records processed:      20
+Duplicates removed:     0
+Missing values handled: 4
+Rows dropped:           0
+Records loaded:         20
+
+sales_raw.csv
+--------------------------------
+Records processed:      41
+Duplicates removed:     1
+Missing values handled: 0
+Rows dropped:           5
+Records loaded:         35
+
